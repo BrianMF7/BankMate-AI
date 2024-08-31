@@ -5,7 +5,7 @@ function First() {
   return (
     <section className="first">
       <div className="content">
-        <h2>What is Artificial Intelligence (AI)?</h2>
+        <h2>Buddyfin AI</h2>
         <p>
           Learn how to save, make and invest money with our integrated AI who is your buddy.
         </p>
