@@ -7,13 +7,13 @@ function First() {
       <div className="content">
         <h2>What is Artificial Intelligence (AI)?</h2>
         <p>
-          Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. These machines can perform tasks such as learning, reasoning, problem-solving, and decision-making.
+          Learn how to save, make and invest money with our integrated AI who is your buddy.
         </p>
         <p>
-          AI is a broad field that includes various subfields like machine learning, natural language processing, robotics, and computer vision. It has the potential to revolutionize industries and improve the way we live, work, and interact with the world.
+          Yes Buddyfin is your AI buddy but will be responsible for you making responsible money habits.
         </p>
         <p>
-          From self-driving cars to virtual assistants like Siri and Alexa, AI is already a part of our daily lives and is continuously evolving to offer more advanced solutions.
+        Recommending you the top 10 stocks in daily market, bounds/savings accounts, how to make passive income, Buddyfin can "recommend" advice from a chat.
         </p>
       </div>
     </section>
