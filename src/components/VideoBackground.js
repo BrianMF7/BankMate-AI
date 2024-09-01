@@ -18,7 +18,7 @@ const VideoBackground = () => {
           zIndex: "-1"
         }}
       >
-                <source src={`${process.env.PUBLIC_URL}/aivideo.mp4`} type="video/mp4" />
+      <source src={`${process.env.PUBLIC_URL}/aivideo.mp4`} type="video/mp4" />
       </video>
       <div style={{ position: "relative",
           zIndex: "1",
