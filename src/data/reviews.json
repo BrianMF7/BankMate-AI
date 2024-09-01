@@ -32,45 +32,53 @@
       }
     ],
     "poor_stocks": [
-      {
-        "company": "GameStop Corp.",
-        "ticker": "GME",
-        "reason": "Declining sales and struggling to adapt to digital game sales"
-      },
-      {
-        "company": "Bed Bath & Beyond Inc.",
-        "ticker": "BBBY",
-        "reason": "Fierce competition from online retailers and declining sales"
-      },
-      {
-        "company": "J.C. Penney Company Inc.",
-        "ticker": "JCPNQ",
-        "reason": "Bankruptcy and struggling to compete with online retailers"
-      },
-      {
-        "company": "Sears Holdings Corp.",
-        "ticker": "SHLDQ",
-        "reason": "Bankruptcy and struggling to compete with online retailers"
-      },
-      {
-        "company": "Coty Inc.",
-        "ticker": "COTY",
-        "reason": "Declining sales and struggling to compete with online beauty retailers"
-      },
-      {
-        "company": "Macy's Inc.",
-        "ticker": "M",
-        "reason": "Declining sales and struggling to compete with online retailers"
-      },
-      {
-        "company": "Ford Motor Co.",
-        "ticker": "F",
-        "reason": "Declining sales and struggling to adapt to electric vehicle market"
-      },
-      {
-        "company": "General Motors Co.",
-        "ticker": "GM",
-        "reason": "Declining sales and struggling to adapt to electric vehicle market"
-      }
-    ]
+        {
+          "company": "GameStop Corp.",
+          "ticker": "GME",
+           "analyst_recommendation": "Sell",
+          "reason": "Declining sales and struggling to adapt to digital game sales"
+        },
+        {
+          "company": "Bed Bath & Beyond Inc.",
+          "ticker": "BBBY",
+           "analyst_recommendation": "Underperform",
+          "reason": "Fierce competition from online retailers and declining sales"
+        },
+        {
+          "company": "J.C. Penney Company Inc.",
+          "ticker": "JCPNQ",
+           "analyst_recommendation": "Strong Sell",
+          "reason": "Bankruptcy and struggling to compete with online retailers"
+        },
+        {
+          "company": "Sears Holdings Corp.",
+          "ticker": "SHLDQ",
+           "analyst_recommendation": "Strong Sell",
+          "reason": "Bankruptcy and struggling to compete with online retailers"
+        },
+        {
+          "company": "Coty Inc.",
+          "ticker": "COTY",
+           "analyst_recommendation": "Underperform",
+          "reason": "Declining sales and struggling to compete with online beauty retailers"
+        },
+        {
+          "company": "Macy's Inc.",
+          "ticker": "M",
+           "analyst_recommendation": "Sell",
+          "reason": "Declining sales and struggling to compete with online retailers"
+        },
+        {
+          "company": "Ford Motor Co.",
+          "ticker": "F",
+           "analyst_recommendation": "Hold",
+          "reason": "Declining sales and struggling to adapt to electric vehicle market"
+        },
+        {
+          "company": "General Motors Co.",
+          "ticker": "GM",
+           "analyst_recommendation": "Hold",
+          "reason": "Declining sales and struggling to adapt to electric vehicle market"
+        }
+      ]
   }
