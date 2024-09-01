@@ -16,18 +16,21 @@ function App() {
      <div>
 
          <Navbar />
-      {}
     </div>
 
     <div>
       <First />
-      {}
     </div>
     <div>
       <VideoBackground />
     </div>
     </div>
+  
     </ClerkProvider>
+
+
+
+
 
        
       

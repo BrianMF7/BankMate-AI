@@ -1,84 +1,156 @@
 {
     "best_stocks": [
-      {
-        "company": "UnitedHealth Group",
-        "ticker": "UNH",
-        "analyst_recommendation": "Strong Buy",
-        "reason": "UnitedHealth Group has a strong track record of delivering solid earnings and revenue growth, making it a top pick among analysts."
-      },
-      {
-        "company": "Emerson Electric",
-        "ticker": "EMR",
-        "analyst_recommendation": "Strong Buy",
-        "reason": "Emerson Electric's diversified portfolio and strong financial performance make it an attractive choice for investors."
-      },
-      {
-        "company": "Microsoft",
-        "ticker": "MSFT",
-        "analyst_recommendation": "Strong Buy",
-        "reason": "Microsoft's dominant position in the software industry and its growing cloud business make it a top pick among analysts."
-      },
-      {
-        "company": "Alexandria Real Estate Equities Inc.",
-        "ticker": "ARE",
-        "analyst_recommendation": "Strong Buy",
-        "reason": "Alexandria Real Estate Equities Inc. has a strong portfolio of properties and a solid track record of delivering earnings growth."
-      },
-      {
-        "company": "Zoetis Inc.",
-        "ticker": "ZTS",
-        "analyst_recommendation": "Strong Buy",
-        "reason": "Zoetis Inc.'s diversified portfolio of animal health products and strong financial performance make it an attractive choice for investors."
-      }
+    {
+    "company": "Polaris",
+    "ticker": "PII",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Small Value",
+    "Morningstar Capital Allocation Rating": "Exemplary"
+    }
+    },
+    {
+    "company": "British American Tobacco",
+    "ticker": "BTI",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Standard"
+    }
+    },
+    {
+    "company": "Pfizer",
+    "ticker": "PFE",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Standard"
+    }
+    },
+    {
+    "company": "Bristol-Myers Squibb",
+    "ticker": "BMY",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Exemplary"
+    }
+    },
+    {
+    "company": "Comcast",
+    "ticker": "CMCSA",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Standard"
+    }
+    },
+    {
+    "company": "Gilead Sciences",
+    "ticker": "GILD",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Standard"
+    }
+    },
+    {
+    "company": "Campbell Soup",
+    "ticker": "CPB",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Mid-Value",
+    "Morningstar Capital Allocation Rating": "Standard"
+    }
+    },
+    {
+    "company": "U.S. Bancorp",
+    "ticker": "USB",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Exemplary"
+    }
+    },
+    {
+    "company": "Toronto-Dominion Bank",
+    "ticker": "TD",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Low",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Exemplary"
+    }
+    },
+    {
+    "company": "United Parcel Service",
+    "ticker": "UPS",
+    "analysts_recommendation": "Buy",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "Medium",
+    "Morningstar Style Box": "Large Value",
+    "Morningstar Capital Allocation Rating": "Standard"
+    }
+    }
     ],
     "poor_stocks": [
-        {
-          "company": "GameStop Corp.",
-          "ticker": "GME",
-           "analyst_recommendation": "Sell",
-          "reason": "Declining sales and struggling to adapt to digital game sales"
-        },
-        {
-          "company": "Bed Bath & Beyond Inc.",
-          "ticker": "BBBY",
-           "analyst_recommendation": "Underperform",
-          "reason": "Fierce competition from online retailers and declining sales"
-        },
-        {
-          "company": "J.C. Penney Company Inc.",
-          "ticker": "JCPNQ",
-           "analyst_recommendation": "Strong Sell",
-          "reason": "Bankruptcy and struggling to compete with online retailers"
-        },
-        {
-          "company": "Sears Holdings Corp.",
-          "ticker": "SHLDQ",
-           "analyst_recommendation": "Strong Sell",
-          "reason": "Bankruptcy and struggling to compete with online retailers"
-        },
-        {
-          "company": "Coty Inc.",
-          "ticker": "COTY",
-           "analyst_recommendation": "Underperform",
-          "reason": "Declining sales and struggling to compete with online beauty retailers"
-        },
-        {
-          "company": "Macy's Inc.",
-          "ticker": "M",
-           "analyst_recommendation": "Sell",
-          "reason": "Declining sales and struggling to compete with online retailers"
-        },
-        {
-          "company": "Ford Motor Co.",
-          "ticker": "F",
-           "analyst_recommendation": "Hold",
-          "reason": "Declining sales and struggling to adapt to electric vehicle market"
-        },
-        {
-          "company": "General Motors Co.",
-          "ticker": "GM",
-           "analyst_recommendation": "Hold",
-          "reason": "Declining sales and struggling to adapt to electric vehicle market"
-        }
-      ]
-  }
+    {
+    "company": "Peloton Interactive",
+    "ticker": "PTON",
+    "analysts_recommendation": "Sell",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "High",
+    "Morningstar Style Box": "Small Growth",
+    "Morningstar Capital Allocation Rating": "Poor"
+    }
+    },
+    {
+    "company": "Robinhood Markets",
+    "ticker": "HOOD",
+    "analysts_recommendation": "Sell",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "High",
+    "Morningstar Style Box": "Small Growth",
+    "Morningstar Capital Allocation Rating": "Poor"
+    }
+    },
+    {
+    "company": "Beyond Meat",
+    "ticker": "BYND",
+    "analysts_recommendation": "Sell",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "High",
+    "Morningstar Style Box": "Small Growth",
+    "Morningstar Capital Allocation Rating": "Poor"
+    }
+    },
+    {
+    "company": "GameStop",
+    "ticker": "GME",
+    "analysts_recommendation": "Sell",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "High",
+    "Morningstar Style Box": "Small Value",
+    "Morningstar Capital Allocation Rating": "Poor"
+    }
+    },
+    {
+    "company": "AMC Entertainment",
+    "ticker": "AMC",
+    "analysts_recommendation": "Sell",
+    "ratings": {
+    "Morningstar Uncertainty Rating": "High",
+    "Morningstar Style Box": "Small Value",
+    "Morningstar Capital Allocation Rating": "Poor"
+    }
+    }
+    ]
+    }
