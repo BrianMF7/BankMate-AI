@@ -3,15 +3,19 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import First from './components/First';
 import VideoBackground from "./components/VideoBackground";
+import { ClerkProvider } from '@clerk/clerk-react';
 
 
 
 
 function App() {
   return (
+    <ClerkProvider
+      publishableKey={process.env.REACT_APP_CLERK_API_KEY}>
     <div className="App">
      <div>
-      <Navbar />
+
+         <Navbar />
       {}
     </div>
 
@@ -22,8 +26,8 @@ function App() {
     <div>
       <VideoBackground />
     </div>
-
     </div>
+    </ClerkProvider>
 
        
       
