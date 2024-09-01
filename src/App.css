@@ -1,0 +1,16 @@
+section {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  @media (min-width: 500px) {
+    .column {
+      flex: 0 0 calc(100% / 2 - 40px);
+    }
+  }
+  
+  @media (min-width: 900px) {
+    .column {
+      flex: 0 0 calc(100% / 4 - 40px);
+    }
+  }
