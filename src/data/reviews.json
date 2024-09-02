@@ -4,101 +4,61 @@
     "company": "Polaris",
     "ticker": "PII",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Small Value",
-    "Morningstar Capital Allocation Rating": "Exemplary"
-    }
+    "ratings": "8/10"
     },
     {
     "company": "British American Tobacco",
     "ticker": "BTI",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Standard"
-    }
+    "ratings": "7/10"
     },
     {
     "company": "Pfizer",
     "ticker": "PFE",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Standard"
-    }
+    "ratings": "7/10"
     },
     {
     "company": "Bristol-Myers Squibb",
     "ticker": "BMY",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Exemplary"
-    }
+    "ratings": "8/10"
     },
     {
     "company": "Comcast",
     "ticker": "CMCSA",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Standard"
-    }
+    "ratings": "7/10"
     },
     {
     "company": "Gilead Sciences",
     "ticker": "GILD",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Standard"
-    }
+    "ratings": "7/10"
     },
     {
     "company": "Campbell Soup",
     "ticker": "CPB",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Mid-Value",
-    "Morningstar Capital Allocation Rating": "Standard"
-    }
+    "ratings": "6/10"
     },
     {
     "company": "U.S. Bancorp",
     "ticker": "USB",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Exemplary"
-    }
+    "ratings": "8/10"
     },
     {
     "company": "Toronto-Dominion Bank",
     "ticker": "TD",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Low",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Exemplary"
-    }
+    "ratings": "9/10"
     },
     {
     "company": "United Parcel Service",
     "ticker": "UPS",
     "analysts_recommendation": "Buy",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "Medium",
-    "Morningstar Style Box": "Large Value",
-    "Morningstar Capital Allocation Rating": "Standard"
-    }
+    "ratings": "7/10"
     }
     ],
     "poor_stocks": [
@@ -106,51 +66,31 @@
     "company": "Peloton Interactive",
     "ticker": "PTON",
     "analysts_recommendation": "Sell",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "High",
-    "Morningstar Style Box": "Small Growth",
-    "Morningstar Capital Allocation Rating": "Poor"
-    }
+    "ratings": "2/10"
     },
     {
     "company": "Robinhood Markets",
     "ticker": "HOOD",
     "analysts_recommendation": "Sell",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "High",
-    "Morningstar Style Box": "Small Growth",
-    "Morningstar Capital Allocation Rating": "Poor"
-    }
+    "ratings": "2/10"
     },
     {
     "company": "Beyond Meat",
     "ticker": "BYND",
     "analysts_recommendation": "Sell",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "High",
-    "Morningstar Style Box": "Small Growth",
-    "Morningstar Capital Allocation Rating": "Poor"
-    }
+    "ratings": "2/10"
     },
     {
     "company": "GameStop",
     "ticker": "GME",
     "analysts_recommendation": "Sell",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "High",
-    "Morningstar Style Box": "Small Value",
-    "Morningstar Capital Allocation Rating": "Poor"
-    }
+    "ratings": "3/10"
     },
     {
     "company": "AMC Entertainment",
     "ticker": "AMC",
     "analysts_recommendation": "Sell",
-    "ratings": {
-    "Morningstar Uncertainty Rating": "High",
-    "Morningstar Style Box": "Small Value",
-    "Morningstar Capital Allocation Rating": "Poor"
-    }
+    "ratings": "3/10"
     }
     ]
     }
