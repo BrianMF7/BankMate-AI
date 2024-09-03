@@ -4,7 +4,7 @@ body {
   }
   
   .navbar {
-    background-color: #085e82;
+    background-color: #222b30;
     padding: 30px 20px;
     display: flex;
     justify-content: space-between;
@@ -41,7 +41,7 @@ body {
   }
   
   /* Responsive - Mobile view */
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 300px) {
     .nav-links {
       display: none;
     }

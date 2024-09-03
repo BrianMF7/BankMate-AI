@@ -1,0 +1,60 @@
+
+.usTitle {
+    margin-bottom: 20px;
+    color: black;
+  }
+
+  .text {
+    text-align: left;
+    color: black; 
+  }
+  
+  .text h2 {
+    color: black; 
+  }
+  
+  .text p {
+    color: black;
+  }
+
+.about-slider {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .slider-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .slide {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .slide img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .text {
+    text-align: left;
+    color: black;
+  }
+  
+  .prev-btn, .next-btn {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
