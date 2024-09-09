@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Navbar.css";
 import {
   SignedIn,
@@ -13,18 +14,20 @@ function Navbar() {
       <div className="logo">Buddyfin AI</div>
       <ul className="nav-links">
         <li>
-          <a href="#home">Home</a>
+          <Link to="/">Home</Link>
         </li>
         <li>
-          <a href="#services">Services</a>
+          <Link to="/#services">Services</Link>
         </li>
         <li>
-          <a href="#mission">Mission</a>
+          <Link to="/#mission">Mission</Link>
         </li>
         <li>
-          <a href="#about">About us</a>
+          <Link to="/#about">About us</Link>
         </li>
-
+        <li>
+          <Link to="/chatbot">Chat Bot</Link>
+        </li>
         <SignedOut>
           <SignInButton />
         </SignedOut>
