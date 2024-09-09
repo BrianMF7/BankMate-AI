@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcde9737.css",
+    "main.js": "/static/js/main.aa875ad1.js",
+    "static/media/geobfi.png": "/static/media/geobfi.05216751936d9b9284e7.png",
+    "static/media/brianbfi.png": "/static/media/brianbfi.259d38fb3f5606815df4.png",
+    "static/media/Faizanbfi.png": "/static/media/Faizanbfi.43194c5d66e5128481af.png",
+    "static/media/febfi.png": "/static/media/febfi.05efc306493fa049a3b6.png",
+    "index.html": "/index.html",
+    "main.dcde9737.css.map": "/static/css/main.dcde9737.css.map",
+    "main.aa875ad1.js.map": "/static/js/main.aa875ad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcde9737.css",
+    "static/js/main.aa875ad1.js"
+  ]
+}
