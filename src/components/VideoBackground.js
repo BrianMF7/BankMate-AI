@@ -62,7 +62,7 @@ const VideoBackground = () => {
             boxShadow: "2px 2px 8px rgba(0, 0, 0, 0.3)",
           }}
         >
-          Explore
+          Try it out!
         </button>
       </div>
     </div>
