@@ -1,12 +1,12 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import "./Navbar.css";
+import { Link as ScrollLink } from "react-scroll";
 import {
   SignedIn,
   SignedOut,
   SignInButton,
   UserButton,
 } from "@clerk/clerk-react";
+import "./Navbar.css";
 
 function Navbar() {
   return (
@@ -14,19 +14,24 @@ function Navbar() {
       <div className="logo">Buddyfin AI</div>
       <ul className="nav-links">
         <li>
-          <Link to="/">Home</Link>
+          <ScrollLink to="home" smooth={true} duration={500}>
+            Home
+          </ScrollLink>
         </li>
         <li>
-          <Link to="/#services">Services</Link>
+          <ScrollLink to="services" smooth={true} duration={500}>
+            Services
+          </ScrollLink>
         </li>
         <li>
-          <Link to="/#mission">Mission</Link>
+          <ScrollLink to="mission" smooth={true} duration={500}>
+            Mission
+          </ScrollLink>
         </li>
         <li>
-          <Link to="/#about">About us</Link>
-        </li>
-        <li>
-          <Link to="/chatbot">Chat Bot</Link>
+          <ScrollLink to="about" smooth={true} duration={500}>
+            About us
+          </ScrollLink>
         </li>
         <SignedOut>
           <SignInButton />
