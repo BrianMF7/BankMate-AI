@@ -11,7 +11,7 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="logo">Buddyfin AI</div>
+      <div className="logo">BankMate AI </div>
       <ul className="nav-links">
         <li>
           <ScrollLink to="home" smooth={true} duration={500}>

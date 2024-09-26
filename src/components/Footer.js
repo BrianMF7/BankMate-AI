@@ -9,7 +9,7 @@ const Footer = () => (
         <li className="menu__item"><a className="menu__link" href="#mission">Mission</a></li>
         <li className="menu__item"><a className="menu__link" href="#about">About Us</a></li>
       </ul>
-      <p>&copy; Buddyfin AI</p>
+      <p>&copy; BankMate AI </p>
     </footer>
   );
   
